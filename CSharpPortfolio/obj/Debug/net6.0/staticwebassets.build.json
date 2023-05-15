@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "bJreyjFw+VKbdn8hGTQpRW0rYFy6+OZJswueAer4h1c=",
+  "Source": "CSharpPortfolio",
+  "BasePath": "_content/CSharpPortfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CSharpPortfolio/wwwroot",
+      "Source": "CSharpPortfolio",
+      "ContentRoot": "/Users/brettcurrier/Desktop/c#/CSharpPortfolio/wwwroot/",
+      "BasePath": "_content/CSharpPortfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/brettcurrier/Desktop/c#/CSharpPortfolio/wwwroot/css/style.css",
+      "SourceId": "CSharpPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/brettcurrier/Desktop/c#/CSharpPortfolio/wwwroot/",
+      "BasePath": "_content/CSharpPortfolio",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    }
+  ]
+}

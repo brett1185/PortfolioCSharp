@@ -14,3 +14,15 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/brettcurrier/Desktop/c#/CSharpPortfolio
 build_property._RazorSourceGeneratorDebug = 
+
+[/Users/brettcurrier/Desktop/c\#/CSharpPortfolio/Views/Contact/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brettcurrier/Desktop/c\#/CSharpPortfolio/Views/Index/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5kZXgvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/brettcurrier/Desktop/c\#/CSharpPortfolio/Views/Projects/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvUHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
