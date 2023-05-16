@@ -1,3 +1,14 @@
-body{
-    background-color: green;
+.navBar{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
 }
+.selfPhoto{
+    height: 10px;
+}
+
+img {  
+    max-width: 100%;  
+    height: auto;  
+    }  
+
