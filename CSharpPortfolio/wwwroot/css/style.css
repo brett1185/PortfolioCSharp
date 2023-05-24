@@ -5,26 +5,30 @@
 }
 .info{
     display: flex;
+    justify-content: center;
    
     
 }
 .info{
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
+    justify-content: space-between;
    
     
 }
 
 .RightWindow{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    margin-left: 125px;
+    margin-top: 125px;
+    display: inline-block;
+    align-content: center;
   height: 20%;
   width: 20%;
-    flex: 1;
+    flex: 2;
 }
 .LeftWindow{
-
+    align-content: center;
+    display: inline-block;
     flex: 1;
 }
 
@@ -33,4 +37,12 @@ img {
     height: 75%;
     width: 75%  
     }  
+
+.AboutMeList{
+    font-size: 30px;
+}
+
+lh{
+    text-decoration: underline ;
+}
 
