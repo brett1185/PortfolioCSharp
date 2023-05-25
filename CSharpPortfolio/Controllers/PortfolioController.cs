@@ -21,4 +21,13 @@ public class ContactController : Controller{
     public ViewResult Contact(){
         return View();
     }
-}
+
+    [HttpPost]
+    [Route("process")]
+    public RedirectResult FormInfo(string name, string email, string message){
+        Console.WriteLine("Form Submitted");
+   
+    
+        return Redirect("/index");
+    }
+    }
