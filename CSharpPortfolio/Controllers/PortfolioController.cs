@@ -28,6 +28,6 @@ public class ContactController : Controller{
         Console.WriteLine("Form Submitted");
    
     
-        return Redirect("/index");
+        return Redirect("/");
     }
     }
